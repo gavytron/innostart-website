@@ -1,4 +1,4 @@
 baseURL = "http://innostart.it/"
 languageCode = "it-IT"
-title = "InnoStart Home Page"
+title = "InnoStart"
 theme = "ananke"
